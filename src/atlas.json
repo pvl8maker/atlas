@@ -1,0 +1,1461 @@
+{
+    "A.0": {
+        "Name": "Atlas Preamble",
+        "Version": 1,
+        "Type": "Atlas Preamble",
+        "Components": {
+            "Content": null
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.0.0"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.0.0": {
+        "Name": "Atlas Preamble Navigation Hub",
+        "Version": 1,
+        "Type": "Navigation Hub",
+        "Components": {
+            "Content": "The Atlas contains all data covering all aspects of operating the NEWDAO ecosystem. Further navigation: The Governance Scope Hub contains rules for governance documents and actors. The Support Scope Child Document contains rules and data related to AI tools."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.0.0"
+        ],
+        "links_to": {
+            "The Governance Scope Hub": "A.1.0.0",
+            "The Support Scope": "A.2"
+        },
+        "linked_from": []
+    },
+    "A.1": {
+        "Name": "The Governance Scope",
+        "Version": 1,
+        "Type": "Scope",
+        "Components": {
+            "Content": "The Governance Scope covers principles and rules related to the Governance Processes and balance of power of NEWDAO and the NEW Ecosystem. The Governance Scope must ensure that the resilient equilibrium of NEWDAO Governance remains protected against all potential direct and indirect threats."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.da",
+            "A.1.0",
+            "A.1.1",
+            "A.1.2",
+            "A.1.3",
+            "A.1.4"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.da": {
+        "Name": "The Governance Scope Danish Translation",
+        "Version": 1,
+        "Type": "Scope",
+        "Components": {
+            "Original Document Type": "Scope",
+            "Language": "Danish.",
+            "Translated Name": "Styringsscopet",
+            "Indhold": "Styringsscopet d\\u00e6kker over principper og regler relateret til styringsprocesserne og magtbalancen i NEWDAO og NEW \\u00d8kosystemet. Styringsscopet skal sikre at NEWDAO's Styring forbliver i stabil ligev\\u00e6gt, og forbliver beskyttet mod alle potentielle direkte og indirekte trusler."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.0.0",
+            "A.1.0.1",
+            "A.1.0.2",
+            "A.1.0.3",
+            "A.1.0.4"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.0": {
+        "Name": "Governance Scope Navigation Hub",
+        "Version": 1,
+        "Type": "Navigation Hub",
+        "Components": {
+            "Content": "The Governance Scope contains rules and principles related to core NEWDAO governance processes and the actors, in particular Alignment Conservers, involved in core governance processes. Further Navigation: The Scope Improvement Child Document contains the rules and processes for improving the Governance Scope. The Spirit of the Atlas Child Document contains key principles related to the fundamental values and interpretation of the Atlas. The Atlas Documents Hub contains rules and specifications for the structure of the Atlas and the characteristics, properties and types of Atlas Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {
+            "Scope Improvement": "A.1.1",
+            "Spirit of the Atlas": "A.1.2",
+            "Atlas Documents Hub": "A.1.3.0.0"
+        },
+        "linked_from": []
+    },
+    "A.1.0.1": {
+        "Name": "Original Context Data",
+        "Version": 1,
+        "Type": "Original Context Data",
+        "Components": {
+            "Content": "The intent of A.1 is to establish the foundational governance principles and structure to enable NEWDAO to fulfill its vision in a sustainable and resilient manner. It aims to balance adaptation with stability by locking in core values while allowing carefully managed evolution of operational details. The rules aim to prevent governance attacks, drift from principles, and other forms of misalignment or corruption."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Indirect Threat Element Analysis": "A.1.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.2.1": {
+        "Name": "Indirect Threat Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "Indirect Threat",
+            "Analysis": "Indirect Threats refer to subtle, slow-moving or slippery slope risks, including slippery slope misalignment. Small scale violations, or well-intentioned, accidental violations of the balance of power or adherence to the Spirit of the Atlas enables an environment where misalignment becomes increasingly tolerated and eventually the Atlas becomes mutable, opening for the possibility of completely overturning the balance of power and comitting power grabs or centralization of the ecosystem. The Governance Scope must explicitly address these risks in all of its processes and ensure there is no openings in the rules and processes of the Atlas Documents that are vulnerable to indirect threats in the very long term."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.3.1": {
+        "Name": "Misaligned Aligned Scope Proposal Action Example",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example",
+        "Components": {
+            "Input": "An AVC submits an Aligned Scope Proposal that modifies an Atlas Document in the Governance Scope to enable a budget to be used for funding new technical innovation.",
+            "Output": "The FacilitatorDAO derecognizes the AVC for open misalignment by taking actions that contravene the overall, scope, purpose and boundary of the Governance Scope as specified in its Scope Document.",
+            "Label": "Aligned"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.0.4": {
+        "Name": "FacilitatorDAO Action Precedent Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Precedent Directory",
+        "Components": {
+            "Directory overview": "This directory will contain FacilitatorDAO Action Precedents related to A.1 . Currently it is empty"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.1": {
+        "Name": "Scope Improvement",
+        "Version": 1,
+        "Type": "Article",
+        "Components": {
+            "Content": "This Article discusses the principles and processes for improving the Governance Scope's Atlas Documents. It emphasizes the role of Scope Advisors, Governance FacilitatorDAOs, and the Atlas Operational Platform. The Sections of this Article provide detailed insight into these roles and their responsibilities."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.1.1",
+            "A.1.1.2",
+            "A.1.1.3"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.1.1": {
+        "Name": "Role of Scope Advisors",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "Improvements to the Governance Scope should be advised by expert Scope Advisors. They provide objective and factual input on Atlas Document improvements. They are selected through a governance poll, ensuring they meet specific criteria and avoid conflicts of interest. Their work output must be checked for alignment with the expected results."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.1.2": {
+        "Name": "Role of Governance FacilitatorDAOs",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "Governance FacilitatorDAOs manage the Scope Advisors, from soliciting proposals to ensuring the produced work aligns with the Scope Artifact. They also have the authority to propose changes to the Scope Framework in response to ambiguous or challenging situations."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.1.3": {
+        "Name": "Atlas Operational Platform",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "The Atlas Operational Platform is crucial for accessible participation in the Governance Scope. Part of the Scope Advisors must support its design and development. It should provide a comprehensive and user-friendly overview of all data and processes relevant to the Governance Scope, ensuring accessibility, transparency, and easy verification of processes and decisions."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.2": {
+        "Name": "Spirit of the Atlas",
+        "Version": 1,
+        "Type": "Article",
+        "Components": {
+            "Content": "The Spirit of the Atlas represents the foundational principles of NEWDAO Governance, enshrined in the Immutable Documents and reflected in Atlas Documents and aligned participants of the NEW Ecosystem."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.2.1",
+            "A.1.2.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.2.1": {
+        "Name": "Universal Alignment and the Spirit of the Atlas",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "The Spirit of the Atlas are the foundational principles that steer the NEWDAO Governance process. The Spirit of the Atlas are grounded concepts that enables coordination in the NEW Ecosystem around a resilient governance equilibrium that optimizes for Universal Alignment between the NEW Ecosystem and its surrounding environment. The grounded concepts of the Spirit of the Atlas provide specific boundaries for distinguishing Universal Alignment and misalignment when operating in the NEW Ecosystem context. The Immutable Documents of the Atlas are the bedrock for determining Universal Alignment of the NEW Ecosystem's rules and incentives, and hold precedence over any other conflicting rules or decisions. In situations where the Immutable Documents cannot be directly interpreted, the Spirit of the Atlas should be inferred in a way that maximizes Universal Alignment and mitigates risks of slippery slope misalignment. Achieving this necessitates a comprehensive understanding of Universal Alignment and the logic of how it is grounded in the Spirit of the Atlas within NEWDAO, and this Section must specify the processes to ensure the right research and documentation efforts occur to proactively protect the Spirit of the Atlas in the NEW Ecosystem."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.2.2": {
+        "Name": "Interpretation of the Spirit of the Atlas",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "When the Immutable Documents do not contain explicit instructions about a particular topic, the Spirit of the Atlas should be extrapolated based on the best available knowledge and research into Universal Alignment. Resolution of Atlas Document ambiguity or contradictions must be fully congruent with the Spirit of the Atlas and prior precedent, and must be resolved in a way that also clearly sets new precedent to prevent future similar ambiguous situations from occurring. This Section must cover the processes needed to operationalize the capability to research and describe the Spirit of the Atlas, the establishment of Spirit of the Atlas interpretations and precedent, and its application to Adaptive Documents. FacilitatorDAOs must have a process for directly applying Spirit of the Atlas interpretations in cases of less ambiguity and impact. In situations where there are high levels of ambiguity about how to extraprolate the Spirit of the Atlas to the new data, a NEWDAO governance vote is needed to establish the precedent"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3": {
+        "Name": "Atlas Documents",
+        "Version": 1,
+        "Type": "Article",
+        "Components": {
+            "Content": "Atlas Documents are integral to NEWDAO\\u2019s structure and governance. They are organized into document trees, starting with Immutable Documents, containing the Spirit of the Atlas, and Adaptive Documents for operationalization and evolution. The Sections of this Article provide detailed insight into the properties, evolution, and processes related to Atlas Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.1",
+            "A.1.3.2",
+            "A.1.3.3",
+            "A.1.3.4",
+            "A.1.3.5"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.0.0"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.0.0": {
+        "Name": "Atlas Documents Navigation Hub",
+        "Version": 1,
+        "Type": "Navigation Hub",
+        "Components": {
+            "Content": "The Atlas Documents Document contains all of the rules and specifications related to Atlas Documents. Further navigation: Definition and Properties of Atlas Documents Child Document contains core structural rules of Atlas Document contents and identifiers. Recursive Governance Improvement of Adaptive Documents Child Document is a stub that covers how Atlas Documents interact with NEWDAO Governance. Structure, categories and types of Atlas Documents Hub contains the rules and specifications for different types and categories of Atlas Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {
+            "Definition and Properties of Atlas Documents": "A.1.3.1",
+            "Recursive Governance Improvement of Adaptive Documents": "A.1.3.2",
+            "Structure, categories and types of Atlas Documents Hub": "A.1.3.3.0.0"
+        },
+        "linked_from": []
+    },
+    "A.1.3.1": {
+        "Name": "Definition and Properties of Atlas Documents",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "Atlas Documents are the basic building blocks for structuring data in the Atlas. They are organized as nested document trees, each with a unique Document Identifier. The first three layers contain the Immutable Documents, which together enshrine the Spirit of the Atlas and the core, permanent boundaries for how to operationalize it without risking slippery slope misalignment. In the layers below the Immutable Documents are the Adaptive Documents, which are continuously improved through the NEWDAO governnace process to interpret and practically operationalize the Spirit of the Atlas, within the boundaries of the Immutable Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.1.1",
+            "A.1.3.1.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.1": {
+        "Name": "Document Identifiers",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "All Atlas Documents are distinguishable through their unique Document Identifier. The Document Identifier is the technical name of the Atlas Document, and it determines its position in the Document Tree of the Atlas. All Document Identifiers begin with a capital A, and the numbers and letters of the Document Identifiers are separated with dots, with each dot signifying that the Atlas Document is one layer deeper in the tree structure. The Document Identifiers help determine the position of each Atlas Document, and makes it easier to estimate the relationship between two different Atlas Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2": {
+        "Name": "Atlas Document Properties",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "All Atlas Documents have 5 standard properties that provide key information about them. The subdocuments of A.1.3.2 specify the characteristics of each of the 5 standard properties.\nThe standard properties of Atlas Documents should be listed in the following order:\n1. Name\n2. Version\n3. Last Modified\n4. Type\n5. Components"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.1.2.1",
+            "A.1.3.1.2.2",
+            "A.1.3.1.2.3",
+            "A.1.3.1.2.4",
+            "A.1.3.1.2.5"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2.1": {
+        "Name": "Name Property",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The Name property is used to provide each Atlas Document a human-readable name, to make it more easily distinguishable by humans, and to give a very rough overview of its purpose and function. The actual names of Atlas Documents for data-keeping purposes are their Document Identifiers, as a result it is possible to modify the name property with no consequences."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2.2": {
+        "Name": "Version Property",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The version property of Atlas Documents specifies how many times it has been modified. Every time an Atlas Document is modified, the newly modified Document gets its version number incremented, and the old version is recorded as a historical version with a Document Identifier equivalent to its version number. As an example, if an Atlas Document located 1.1.1 with version number 3 is modified, the new Atlas Document will have version number 4, and the old Atlas Document will be located at 1.1.1.v3. This means all historical versions of Atlas Documents are kept permanently as a part of the Atlas, to ensure the data isn't lost over time."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2.3": {
+        "Name": "Last Modified Property",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The 'Last Modified' property specifies the exact date and time when the Atlas Document was updated to its current version. It is recorded in the UTC timezone and follows the format 'YYYY-MM-DD-HH:MM:SS'. This property provides a timestamp for tracking modifications and ensuring transparency in the governance and update process. When an Atlas Document is at version 1, then Last Modified property denotes when the Atlas Document was created."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2.4": {
+        "Name": "Type Property",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The Type Property of Atlas Documents specifies the function, characteristic and purpose of the Atlas Document. The Type determines the data that must be contained in the Components Property. The various Document Types and their characteristics are specified in *A.1.3.3*."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.1.2.5": {
+        "Name": "Components Property",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The Components Property of Atlas Documents contains an object that specifies the data components of the Atlas Document as nested properties. The Components of an Atlas Document is determined by its Type. Some Document Types have no Components, in which the object is just empty. An Atlas Document with Components must always have all of its components properly filled according to the requirements defined by its Type Specification. Some documents have custom logic for how their Components behave, and this custom logic is specified through a special reserved component property called 'custom'. Atlas Documents of Types with specified custom logic components can have variable number of components, and different characteristics of each component, for each instance of the Type. Custom components are always appended to the end of the list of components."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.2": {
+        "Name": "Recursive governance improvement of Adaptive Documents",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "Adaptive Documents are updated quarterly through the AVC process, based on Aligned Scope Proposals produced by AVCs. These updates must always be aligned with the principles and boundaries of the Immutable Documents, and must aim to objectively improve the quality of the Adaptive Documents over time to ensure the NEW Ecosystem always trends towards greater Universal Alignment, lower inner incentive requirements of its participants, greater efficiency, greater resilience and sustainable growth."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3": {
+        "Name": "Structure, categories and types of Atlas Documents",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "This Section must provide clear specifications of the basic structure of Atlas Documents, their general categores and individual types, their syntax and content requirements, and their functions and composability in the Atlas."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.3.1",
+            "A.1.3.3.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.3.0.0"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.0.0": {
+        "Name": "Structure, categories and types of Atlas Documents Navigation Hub",
+        "Version": 1,
+        "Type": "Navigation Hub",
+        "Components": {
+            "Content": "The Structure, categories and types of Atlas Documents Document is the root of the document subtree that covers all rules about the unique characteristics and differentiating factors of Atlas Documents, in particular Document Types. Further navigation: Atlas Document Type Categories Child Document contains the overview of the high level classification of Atlas Documents Types. List of Document Types and their specifications Child Document contains all of the Document Types and their rules as Child Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {
+            "Atlas Document Type Categories": "A.1.3.3.1",
+            "List of Document Types and their specifications": "A.1.3.3.2"
+        },
+        "linked_from": []
+    },
+    "A.1.3.3.1": {
+        "Name": "Atlas Document Type Categories",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The Atlas Document Types can be broadly categorized into distinct groups that determine how they are modified and how they function in the Atlas. At the highest level there are the Immutable Documents and the Adaptive Documents. The Adaptive Documents are further subdivided into 3 distinct groups: Primary Documents, Supporting Documents, and Accessory Documents. The category of an Atlas Document can be inferred from its Document Identifier, as each group have unique and non-overlapping rules for validity of their Document Identifiers."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.3.1.1",
+            "A.1.3.3.1.2",
+            "A.1.3.3.1.3",
+            "A.1.3.3.1.4"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.1.1": {
+        "Name": "Immutable Document category",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "Immutable Documents are the most important part the Atlas, as they record the Spirit of the Atlas, detailing the vision, purpose and unalienable principles of NEWDAO. They are fully immutable and can never be changed once the Sagittarius Lockstake Engine has been deployed. Any attempt to change or circumvent the Spirit of the Atlas as specified in the Immutable Documents is severe misalignment. Immutable Documents have Document identifiers that are at most 3 layers deep in the Document Tree."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.1.2": {
+        "Name": "Primary Document category",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "Primary Documents are the cornerstone of the Adaptive Documents and the practical operationalization and resilience of the Atlas. They detail specific, practical principles, rules, processes and roles necessary to operationalize the Spirit of the Atlas. Primary Documents are modified through AVC process only, and generally must be modified as slowly as possible, and as little as possible while remaining fully adapted to the external environment. Every modification of a Primary Document should aim to future-proof against the need for future modifications. The exception to this, is when Primary Documents are modified to adapt to changing external conditions, as it is important they stay up to date and are fully adapted in their ability to protect the Spirit of the Atlas against threats from a changing environment. Primary Documents have Document Identifiers that are 4 layers or deeper in the Document Tree, and cannot contain 0's."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.1.3": {
+        "Name": "Supporting Document category",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "Supporting Documents are attached to Immutable Documents and Primary Documents (called their Target Document). They provide context and in some cases advanced functionality to the Target Documents, enabling them to be fully operationally effective and unambiguous. The different Types of Supporting Documents have different functions, and some of them are required for all Immutable Documents and Primary Documents, while others are only required for certain Primary Document Types. Some Supporting Documents can only be modified through the AVC process, while others have active data components that can be modified in real time by processes specified in the Atlas, either in the Target Document or elsewhere in the Atlas, depending on the Supporting Document. Supporting Documents always have Document Identifiers that contain at least one 0."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.1.4": {
+        "Name": "Accessory Document category",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "Accessory Documents provide accessory data to every other Atlas Document type. There are two types of Accessory Documents; Translation Documents and Archive Documents. Translation Documents can be edited directly by FacilitatorDAOs, while Archive Documents are immutable. Accessory Documents always have Document Identifiers that contain letters in addition to the standard 'A' prefix of all Atlas Document Identifiers."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2": {
+        "Name": "List of Document Types and their specifications",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The subdocuments of this Core Document are Type Specification Documents that contain specifications of each of the Atlas Document Types, specifying their standardized characteristics and requirements which must be followed by all Atlas Documents to be valid and aligned."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.3.2.1",
+            "A.1.3.3.2.10",
+            "A.1.3.3.2.11",
+            "A.1.3.3.2.12",
+            "A.1.3.3.2.13",
+            "A.1.3.3.2.14",
+            "A.1.3.3.2.15",
+            "A.1.3.3.2.16",
+            "A.1.3.3.2.17",
+            "A.1.3.3.2.18",
+            "A.1.3.3.2.19",
+            "A.1.3.3.2.2",
+            "A.1.3.3.2.20",
+            "A.1.3.3.2.21",
+            "A.1.3.3.2.22",
+            "A.1.3.3.2.23",
+            "A.1.3.3.2.24",
+            "A.1.3.3.2.25",
+            "A.1.3.3.2.3",
+            "A.1.3.3.2.4",
+            "A.1.3.3.2.5",
+            "A.1.3.3.2.6",
+            "A.1.3.3.2.7",
+            "A.1.3.3.2.8",
+            "A.1.3.3.2.9"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.1": {
+        "Name": "The Type Specification Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Type Specification",
+            "Type Overview": "The Type Specification Type is used for Type Specification Documents that specify the characteristics of each of the different Document Types. It ensures that all Type Specifications contain all necessary information to make it easy to reason about whether a document follows the requirements for its type.",
+            "Type Components": {
+                "Type Name": "The Type Name Component must contain the name of the Document Type",
+                "Type Overview": "The Type Overview Component must contain high level information as human-readable text about the type, such as what it is used for and why it is necessary.",
+                "Type Components": "If the Type has Components, they must be specified in this Component as a nested object.",
+                "Type Category": "This Component must specify whether the Type is an Immutable Document, a Primary Document, a Supporting Document, or a Translation Document.",
+                "Document Identifier Rules": "This Component must specify as human-readable text rules related to the Document Identifier for Atlas Documents of this Type, and their locations in the Document Trees.",
+                "Type Authority": "This Component must specify, as a number from 0 to 1, the authority of Documents of this type, in order to assist in resolving contradictions between Documents of different types.",
+                "Additional Logic": "This Component can contain additional logic that applies to all Documents of the Type."
+            },
+            "Type Category": "Primary Document",
+            "Document Identifier Rules": "Type Specification Documents must follow the Document Identifier rules for Primary Documents and be grouped together in the Governance Scope Article relevant to Document creation and data integration.",
+            "Type Authority": 0.91,
+            "Additional Logic": "The rules specified in Type Specification Documents must be followed for all Atlas Documents"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.10": {
+        "Name": "The Element Analysis Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Element Analysis",
+            "Type Overview": "Element Analysis Documents analyze and interpret individual elements in a Main Document, breaking down the meaning, implications, and applications of these elements to provide a clear and comprehensive understanding of the Main Document's content.",
+            "Type Components": {
+                "Element": "The Element Component should contain the unique word or phrase from the Target Document that is being analyzed.",
+                "Analysis": "The Analysis Component should contain the interpretation, implications, and applications of the Element, providing a detailed understanding of its role and meaning in the Target Document in the broader context of the Spirit of the Atlas."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Element Analysis Documents must always be located as subdocuments to the Element Analysis Directory Document of their Target Document.",
+            "Type Authority": 0.4,
+            "Additional Logic": "Element Analysis Documents should be created to help in the understanding and interpretation of the Target Document. They should be updated as necessary to reflect changes in the understanding or interpretation of the Element, while maintaining consistency with the Target Document. The Element Analysis should not contradict its Target Document or other context data of the Target Document."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.11": {
+        "Name": "The FacilitatorDAO Action Example Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "FacilitatorDAO Action Example Directory",
+            "Type Overview": "The FacilitatorDAO Action Example Directory Type is a directory Type used to list all of the FacilitatorDAO Action Example Documents that pertain to a Target Document. FacilitatorDAO Action Example Documents provide hypothetical examples of FacilitatorDAO Actions that provide context and clarity on the interpretation of the Target Document in a real situation.",
+            "Type Components": {
+                "Directory overview": "This Component should contain a brief explanation of overall patterns and themes of the FacilitatorDAO Action Examples contained within."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "FacilitatorDAO Action Example Directory Documents must always be located at the .0.3 position of their Target Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "A FacilitatorDAO Action Example Directory Document should be updated whenever a new FacilitatorDAO Action Example Document is added that meaningfully changes what should be contained in the Directory overview Component."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.12": {
+        "Name": "The FacilitatorDAO Action Example Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "FacilitatorDAO Action Example",
+            "Type Overview": "The FacilitatorDAO Action Example Type is used to provide hypothetical examples of FacilitatorDAO Actions, which serve as a guide for future FacilitatorDAO Actions and decision-making processes. It illustrates the application of principles and rules in practical scenarios, promoting understanding and consistency in governance actions.",
+            "Type Components": {
+                "Input": "The Input Component must contain a description of the situation or context in which the FacilitatorDAO Action takes place. This could include any relevant information, such as the state of governance or the specific issue at hand.",
+                "Output": "The Output Component must contain a description of the FacilitatorDAO's action and the outcome or decision that resulted from it. This should provide a clear illustration of how the FacilitatorDAO responded to the situation.",
+                "Label": "The Label Component indicates whether the FacilitatorDAO's action is considered aligned or misaligned according to the principles and rules of governance. This judgment is intended to guide future actions and decisions. If the label is misaligned, it must also specify the penalty that is applied to the FacilitatorDAO for misalignment."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "FacilitatorDAO Action Example Documents must always be located as subdocuments of the FacilitatorDAO Action Example Directory Document of their Target Document.",
+            "Type Authority": 0.5,
+            "Additional Logic": "FacilitatorDAO Action Example Documents should be created and updated as necessary to reflect changes in governance practices, provide clarity on decision-making processes, and enhance understanding of governance principles and rules. The examples should not contradict their Target Document or other Supporting Documents of the Target Document."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.13": {
+        "Name": "The FacilitatorDAO Action Precedent Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "FacilitatorDAO Action Precedent Directory",
+            "Type Overview": "FacilitatorDAO Action Precedent Directory Documents list all of the FacilitatorDAO Action Precedent Documents that pertain to a Target Document. FacilitatorDAO Action Precedent Documents record data about FacilitatorDAO Actions, including ongoing actions, that are primarily based on interpretation of content of the Target Document.",
+            "Type Components": {
+                "Directory overview": "This Component should contain a brief explanation of overall patterns and themes of the FacilitatorDAO Action Precedents contained within."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "FacilitatorDAO Action Precedent Directory Documents must always be located at the .0.4 position below their Target Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "A FacilitatorDAO Action Precedent Directory Document must be updated whenever a new FacilitatorDAO Action Precedent Document is added that meaningfully changes what should be contained in the Directory overview Component."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.14": {
+        "Name": "The FacilitatorDAO Action Precedent Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "FacilitatorDAO Action Precedent",
+            "Type Overview": "The FacilitatorDAO Action Precedent Type is used to record all the relevant data related to a FacilitatorDAO Action, to serve as precedent for future FacilitatorDAO Actions and decision-making processes. It is also used for ongoing FacilitatorDAO Actions, and the creation of a FacilitatorDAO Action Precedent is the formal method that FacilitatorDAOs use to take action against misalignment, or explicitly approve ecosystem activity.",
+            "Type Components": {
+                "Input": "The Input Component must contain a description of the situation or context in which the FacilitatorDAO Action takes place. This could include any relevant information, such as the state of governance or the specific issue at hand.",
+                "Output": "The Output Component must contain a description of the FacilitatorDAO's action and the outcome or decision that resulted from it. This should provide a clear illustration of how the FacilitatorDAO responded to the situation.",
+                "Label": "The Label Component indicates whether the FacilitatorDAO's action is considered aligned or misaligned according to the principles and rules of governance. This judgment is intended to guide future actions and decisions. If the label is misaligned, it must also specify the penalty that is applied to the FacilitatorDAO for misalignment. The Label must always be marked as Aligned when it is created by the FacilitatorDAO, and further action by NEWDAO Governance can directly modify this later according to the specifications of the Atlas Documents relevant to appealing Facilitator Actions."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "FacilitatorDAO Action Precedent Documents must always be located as subdocuments of the FacilitatorDAO Action Precedent Directory Document of their Target Document.",
+            "Type Authority": 0.5,
+            "Additional Logic": "FacilitatorDAO Action Precedent Documents should be created and updated as necessary to reflect changes in governance practices, provide clarity on decision-making processes, and enhance understanding of governance principles and rules. The Precedents should not contradict their Target Document or other Supporting Documents of the Target Document."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.15": {
+        "Name": "The Active Data Controller Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Active Data Controller",
+            "Type Overview": "Active Data Controller Documents are Primary Documents that can have Active Data Documents attached to them as Supporting Documents, and contain variable state that can be directly modified by Facilitators and other processes external to the standard AVC process. Active Data can be lists of authorized actors, parameters, or externally collected data being prepared for data integration with the Atlas.",
+            "Type Components": {
+                "Content": "The Content Component of Active Data Controller Documents is used to describe flexible rules of how the Active Data Documents must behave, and how they can be modified. The Custom Components format and requirements of the Active Data Documents must be defined as well."
+            },
+            "Type Category": "Primary",
+            "Document Identifier Rules": "Active Data Controller Documents follow the Document Identifier Rules of Primary Documents.",
+            "Type Authority": 0.89,
+            "Additional Logic": "Active Data Controller Documents must have an Active Data Directory Document located below it at the .0.5 position. The Active Data Controller Document can reference its Active Data subdocuments for its own logic. This allows Active Data Documents to be self-improving and adaptive at high speeds."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.16": {
+        "Name": "The Active Data Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Active Data Directory",
+            "Type Overview": "The Active Data Directory Type is a directory Type used to list all of the Active Data Documents that pertain to an Active Data Controller Document. Active Data Documents contain variable state that can be directly modified by Facilitators and other processes external to the standard AVC process.",
+            "Type Components": {
+                "Directory overview": "This Component should contain a brief explanation of overall patterns and themes of the Active Data Documents contained within."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Active Data Directory Documents must always be located at the .0.5 position of their Active Data Controller Document or Budget Controller Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "An Active Data Directory Document should be updated whenever a new Active Data Document is added that meaningfully changes what should be contained in the Directory overview Component."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.17": {
+        "Name": "Test Document",
+        "Version": null,
+        "Type": null,
+        "Components": {},
+        "Last_Modified": "2023-09-23",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.18": {
+        "Name": "The Active Data Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Active Data",
+            "Type Overview": "The Active Data Type is used for Supporting Documents that contain variable state that can be directly modified by Facilitators and other processes external to the standard AVC process. Active Data can be lists of authorized actors, parameters, or externally collected data being prepared for data integration with the Atlas.",
+            "Type Components": {
+                "Custom Components": "The Custom Components of Active Data Documents are defined by the Active Data Controller Document. They contain the variable state that can be directly modified."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Active Data Documents must always be located as subdocuments of the Active Data Directory Document of their Active Data Controller Document.",
+            "Type Authority": 0.1,
+            "Additional Logic": "Active Data Documents can contain arbitrary types of data, and can contain large amounts of data or code. The function and purpose of the contained data depends on the logic specified in the Active Data Controller Document. Active Data Documents can be modified directly through processes external to the Standard AVC process."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.19": {
+        "Name": "The Budget Controller Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Budget Controller",
+            "Type Overview": "The Budget Controller Type is used to manage the budgets used by NEWDAO to operationalize the Scopes to achieve the purpose and goals of the Spirit of the Atlas. It controls variable state that specifically authorizes executive votes to disburse payments from the NEWDAO Surplus Buffer, or authorize smart contracts to disbuse such payments. The Budget Controller Document determines the rules and processes for modifying and using the budgets contained in the Budget Documents that are attached to it. Budget Controllers also have Active Data Documents attached that are used to report on the status and results of projects funded through the Budget Documents.",
+            "Type Components": {
+                "Content": "The Content Component of Budget Controller Documents is used to describe flexible rules of how the Active Data Documents and Budget Documents must behave, and how they can be modified. The Custom Components format and requirements of the Active Data Documents and the Budget Documents must be defined as well."
+            },
+            "Type Category": "Primary",
+            "Document Identifier Rules": "Budget Controller Documents follow the Document Identifier Rules of Primary Documents.",
+            "Type Authority": 0.89,
+            "Additional Logic": "Budget Controller Documents must have an Active Data Directory Document located below it at the .0.5 position, and a Budget Directory Document located below it at the .0.6 position."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.2": {
+        "Name": "The Atlas Preamble Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Atlas Preamble",
+            "Type Overview": "The Atlas Preamble Type is used for the Atlas Preamble Document Tree which starts at the 0th position of the first layer of the Atlas. The Atlas Preamble details the Spirit of the Atlas in human-readable language, and specifies important definitions for understanding the Spirit of the Atlas, that must be used as context when interpreting all other parts of the Atlas.",
+            "Type Components": {
+                "Content": "The content Component is very flexible and defines in broad human-readable language the Spirit of the Atlas."
+            },
+            "Type Category": "Immutable",
+            "Document Identifier Rules": "Atlas Preamble Documents are located at A.0 or as nested Documents one layer below A.0.",
+            "Type Authority": 1,
+            "Additional Logic": "Atlas Preamble Documents are immutable, foundational parts of the Atlas and their content must be considered when interpreting all other Atlas Documents."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.20": {
+        "Name": "The Budget Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Budget Directory",
+            "Type Overview": "The Budget Directory Type is a directory Type used to list all of the Budget Documents that pertain to a Budget Controller Document.",
+            "Type Components": {
+                "Directory overview": "This Component should contain a brief explanation of overall patterns and themes of the Budget Documents contained within."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Budget Directory Documents must always be located at the .0.6 position of their Budget Controller Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "A Budget Directory Document should be updated whenever a new Budget Document is added that meaningfully changes what should be contained in the Directory overview Component."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.21": {
+        "Name": "The Budget Document Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Budget",
+            "Type Overview": "Budget Documents contain state that can authorize executive votes to disburse payments from the NEWDAO Surplus Buffer, or authorize smart contracts to disburse such payments.",
+            "Type Components": {
+                "Custom Components": "The Custom Components of Budget Documents are defined by the Budget Controller Document. They contain the variable state that can be directly modified."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Budget Documents must always be located as subdocuments of the Budget Directory Document of their Budget Controller Document.",
+            "Type Authority": 0.2,
+            "Additional Logic": "Budget Documents specify a budget rate expressed as NEW per unit of time. Additionally, they can contain large amounts of data, or code, and their function and purpose depends on their Budget Controller Document. Budget Documents can be modified directly through processes external to the Standard AVC process as specified by their Budget Controller Document."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.22": {
+        "Name": "The Definition Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Definition Directory",
+            "Type Overview": "The Definition Directory Type is used for Target Documents with a lot of complex subdocuments, and acts as a directory for definitions of unique terms that are only referenced in its subdocuments.",
+            "Type Components": {},
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Definition Directory Documents must always be located at the .0.0 position of their Target Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "Definition Directory Documents only need to be present in Atlas Documents that require definitions for unique terms in their Subdocuments."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.23": {
+        "Name": "The Definition Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Definition",
+            "Type Overview": "The Definition Type is used for documents that define unique concepts contained in Subdocuments to the Target Document of the Definition Document",
+            "Type Components": {
+                "Term": "The Term Component contains the name of the term that is being defined.",
+                "Definition": "The Definition Component contains the detailed definition of the term."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Definition Documents must always be located as subdocuments of the Definition Directory Document of their Target Document.",
+            "Type Authority": 0.1,
+            "Additional Logic": "To the extent possible it should be avoided to have the same term defined multiple times in the Atlas, and instead always put a single defininition at a location in the Atlas that covers all of its use. The main exception to this principle should be when relatively niche terms are present in two different Scopes."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.24": {
+        "Name": "The Translation Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Translation",
+            "Type Overview": "The Translation Type is used for creating translated versions of Atlas Documents to make the Atlas accessible to non-English speakers. Translation Documents are Accessory Documents and they do not have any impact on the governance or operation of NEWDAO, but they are important for accessibility and inclusivity.",
+            "Type Components": {
+                "Original Document Type": "The Type of the original document that is being translated must be specified in this component.",
+                "Language": "The Language Component specifies the language in which the Atlas Document is translated.",
+                "Translated Name": "The Translated Name component contains the name of the translated Atlas Document in the new language.",
+                "Custom": "Translation Documents contain Custom Components that mirror the components of the original Document with component name and component data translated to the new language."
+            },
+            "Type Category": "Accessory",
+            "Document Identifier Rules": "Translation Documents are located as subdocuments to the Atlas Document they are translating. Their Document Identifier is the same as the Atlas Document they are translating, with an additional suffix that represents the language of the translation. For example, a Spanish translation of A.1 would have the Document Identifier A.1.es.",
+            "Type Authority": "N/A",
+            "Additional Logic": "Translation Documents should be updated whenever the Atlas Document they are translating is updated to ensure that the translation remains accurate. However, in case of any discrepancies or contradictions, the original English version of the Atlas Document always takes precedence."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.25": {
+        "Name": "The Archive Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Archive",
+            "Type Overview": "The Archive Type is used for storing historical versions of Atlas Documents. Archive Documents are Accessory Documents and they do not have any impact on the governance or operation of NEWDAO, but they are important for maintaining a record of changes and evolution of the Atlas over time.",
+            "Type Components": {
+                "Original Document Type": "The Type of the original document that is being archived must be specified in this component.",
+                "Custom": "Archive Documents contain Custom Components that mirror the components of the original Document at the time of the version being archived."
+            },
+            "Type Category": "Accessory",
+            "Document Identifier Rules": "Archive Documents are located as subdocuments to the Atlas Document they are archiving. Their Document Identifier is the same as the Atlas Document they are archiving, with an additional suffix 'v' followed by the version number of the document being archived. For example, the third version of A.1 would have the Document Identifier A.1.v3.",
+            "Type Authority": "N/A",
+            "Additional Logic": "Archive Documents should be created whenever an Atlas Document is updated to ensure that a record of all previous versions is maintained. They are not meant to be modified or deleted once created."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.26": {
+        "Name": "The Navigation Hub Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Navigation Hub",
+            "Type Overview": "The Navigation Hub Type is used for Navigation Hubs that provide summarized content and links to child documents or Focus Hubs that dive deeper or provide supporting data for a specific action. It acts as an entry point and guide for navigating the content of an Immutable or Primary Document.",
+            "Type Components": {
+                "Content": "The Content Component must contain summarized information and links to the child documents of the associated Immutable or Primary Document. It must also link to the nearest navigation hubs below its position if its Child Documents do not have Navigation Hubs. "
+            },
+            "Type Category": "Supporting Document",
+            "Document Identifier Rules": "Navigation Hub Documents must be located at the .0.0 position of an Immutable or Primary Document.",
+            "Type Authority": 0.89,
+            "Additional Logic": "Navigation Hubs serve as a guide for users to understand and navigate the main content of the associated Immutable or Primary Document."
+        },
+        "Last_Modified": "2023-10-06",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.27": {
+        "Name": "The Focus Hub Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Focus Hub",
+            "Type Overview": "The Focus Hub Type is used for Focus Hubs that delve deeper into specific topics or sections from the Navigation Hub. It can be used to slice up a lot of child documents or a lot of hubs into independent groups, so only the relevant group needs to be read. It can also be used to provide relevant data for a specific type of action or workflow related to the Focus Hubs Immutable or Primary Document or its subtree.",
+            "Type Components": {
+                "Content": "The Content Component must contain detailed information about the specific topic or section from the Navigation Hub.",
+                "links_to": "This Component can provide links to related documents or sections, with keys being the document names and values being their respective identifiers."
+            },
+            "Type Category": "Supporting Document",
+            "Document Identifier Rules": "Focus Hub Documents must be located at the nonzero numerical positions below Navigation Hubs, e.g., x.0.0.1, x.0.0.2, etc.",
+            "Type Authority": 0.88,
+            "Additional Logic": "Focus Hubs serve as a detailed guide on specific topics, giving users an in-depth understanding of the subject matter."
+        },
+        "Last_Modified": "2023-10-06",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.3": {
+        "Name": "The Scope Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Scope",
+            "Type Overview": "The Scope Type is used for the 5 nonzero Immutable Documents of the first layer of the Atlas that directly describe focus areas, principles, rules and processes of NEWDAO Governance. Scope Documents define the broad boundaries, requirements and objectives of each of the 5 Atlas Scopes, so that they together can fully cover all activities that are needed for NEWDAO to function while maintaining its resilient equilibrium.",
+            "Type Components": {
+                "Content": "The content Component is very flexible and defines in broad human-readable language core principles, rules and processes."
+            },
+            "Type Category": "Immutable",
+            "Document Identifier Rules": "Scope Documents have the Document Identifiers from A.1 to A.5.",
+            "Type Authority": 0.99,
+            "Additional Logic": "Scope Documents are immutable, foundational parts of the Atlas and their content must be considered when interpreting all principles, rules and processes of Atlas Documents nested below them"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.4": {
+        "Name": "The Article Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Article",
+            "Type Overview": "The Article Type is used for the second layer documents nested below the 5 Scope documents of the Atlas. They directly describe individual focus areas that together fully cover everything needed for the purpose of the Scope to be fulfilled.",
+            "Type Components": {
+                "Content": "The content Component is very flexible and defines in broad human-readable language core principles, rules and processes of the specific focus area of the Scope that the Article covers, and provides the starting point, requirements, boundaries, and in some cases immutable specifications, needed to develop the Adaptive Documents that are nested at lower layers of the Document Trees to maximally fulfill their practical purpose without violating the Spirit of the Atlas."
+            },
+            "Type Category": "Immutable",
+            "Document Identifier Rules": "Article Documents have Document Identifiers one layer below the Scope Documents.",
+            "Type Authority": 0.98,
+            "Additional Logic": "Article Documents are immutable, foundational parts of the Atlas and their content must be considered when interpreting all principles, rules and processes of Atlas Documents nested below them"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.5": {
+        "Name": "The Section Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Section",
+            "Type Overview": "The Section Type is used for the third layer of Immutable Documents nested under the Articles of each Scope in the Atlas. They provide additional structure and specification to the principles, rules and processes within the focus area of the Article, and act as a foundation and boundary against misalignment of the Adaptive Documents that are nested below it.",
+            "Type Components": {
+                "Content": "The content Component is very flexible and provides in-depth human-readable language to elaborate on the specific principles, rules, and processes of the Article that the Section is nested under."
+            },
+            "Type Category": "Immutable",
+            "Document Identifier Rules": "Section Documents have Document Identifiers one layer below the Article Documents.",
+            "Type Authority": 0.97,
+            "Additional Logic": "Section Documents are immutable parts of the Atlas and their content must be considered when interpreting all principles, rules and processes of Adaptive Documents nested below them"
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.6": {
+        "Name": "The Core Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Core",
+            "Type Overview": "The Core Type is the basic building block of the Primary Documents. Core Documents flexibly specify the core principles, rules and processes required to fulfil the specifications made by the Immutable Documents with a focus on clarity, practicality and applicability.",
+            "Type Components": {
+                "Content": "The content Component is very flexible and defines in human-readable language core principles, rules or processes, or subcomponents thereof."
+            },
+            "Type Category": "Primary",
+            "Document Identifier Rules": "Core Documents follow the Document Identifier Rules of Primary Documents, and can have whatever Document Identifier within those constraints that are useful for their purpose.",
+            "Type Authority": 0.9,
+            "Additional Logic": "To support the Resilient Equilibrium of NEWDAO Governance, Core Documents are meant to be as future-proofed as possible. A key principle is that when an Aligned Scope Proposal edits a Core Document, it must justify why the edit will reduce the need for future edits, and takes the Core Document closer to an effectively near-immutable end state where it is strong enough that it naturally covers all probable external events."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.7": {
+        "Name": "The Supporting Root Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Supporting Root",
+            "Type Overview": "The Supporting Root Type is used to mark the beginning of the Supporting Document subtree of an Immutable or Primary Document. All Immutable and Primary Documents must have a Supporting Root.",
+            "Type Components": {},
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Supporting Root Documents must always be located at the .0 position of its Target Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "The Supporting Root Documents have no function other than structurally acting as a directory for nested Supporting Documents in a standardized format. All Immutable Documents and Primary Documents must have a Supporting Root Document attached."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.8": {
+        "Name": "The Original Context Data Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Original Context Data",
+            "Type Overview": "Original Context Data Documents explain the intention and reasoning behind the content of its Target Document, to make interpretation and extrapolation of its contents easier, and provide additional information to other forms of analysis. Original Context Data helps anchor the fundamental purpose and meaning of the target document to its original context, and should help mitigate cultural drift over time. Original Context Data can contain unstructured data used for genesis data integration of early Atlas Documents. Original Context Data Documents can form nested subtrees to organize their data if relevant.",
+            "Type Components": {
+                "Content": "The Content Component should contain all relevant information to understand the intention and reasoning behind the wording and elements of the main Document."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Original Context Data Documents must always be located at the .0.1 position of their Target Document, or nested in a subtree of Original Context Data Documents below the .0.1 position.",
+            "Type Authority": 0.3,
+            "Additional Logic": "The Original Context Data Document should be in a finished form alongside the creation or modification of its Target Document, as it aims to capture the original context and intention of the contents of the Target Document. However, it can and should be modified if new evidence and data comes to light that helps to better describe the original context and intention of the Target Document, or if new perspectives or new external events makes it possible and useful to modify the Original Context Data Document in a way that doesn\\u2019t contradict its earlier language."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.3.2.9": {
+        "Name": "The Element Analysis Directory Type",
+        "Version": 1,
+        "Type": "Type Specification",
+        "Components": {
+            "Type Name": "Element Analysis Directory",
+            "Type Overview": "The Element Analysis Directory Type is a directory used to list all of the Element Analysis Documents pertaining to a Main Document.",
+            "Type Components": {
+                "List of Elements and their Element Analysis Documents": "This Component must contain a structured list of all the Elements and a reference to their respective Element Analysis Documents. Elements are defined as unique words or phrases found in the Target Document that have an important and distinct meaning and purpose in the Target Document, and an associated Element Analysis Document with details."
+            },
+            "Type Category": "Supporting",
+            "Document Identifier Rules": "Element Analysis Directory Documents must always be located at the .0.2 position of their Target Document.",
+            "Type Authority": "N/A",
+            "Additional Logic": "An Element Analysis Directory document should be updated whenever a new Element Analysis Document is added or existing one is removed or renamed to maintain the integrity of the directory structure."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.4": {
+        "Name": "Conflict resolution",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "This Section must cover a process for appeals where an Atlas Document misalignment is perceived, and how the Governance Scope processes these appeals. They also detail how appeal outcomes are recorded and the rules for resolving Ecosystem Agreement appeals."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.4.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.4.1": {
+        "Name": "Atlas Document appeals process",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "Atlas Document appeal proposals are submitted by AVC Members, and can be accepted or rejected by a majority of the Governance FacilitatorDAOs. If a Atlas Document appeal is accepted, the Governance FacilitatorDAOs must review it. Governance FacilitatorDAOs can also directly choose to review a Atlas Document for adherence with Scope boundaries and Atlas alignment."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.3.4.1.1",
+            "A.1.3.4.1.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.4.1.1": {
+        "Name": "FacilitatorDAO direct edits",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "The Governance FacilitatorDAOs can by consensus directly edit a Atlas Document to align its content with the Scope boundaries and other Atlas requirements such as neutrality."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.4.1.2": {
+        "Name": "Governance edits",
+        "Version": 1,
+        "Type": "Core",
+        "Components": {
+            "Content": "A majority of the Governance FacilitatorDAOs can trigger an MKR governance poll to implement an edit to the appealed Atlas Document that will align it with the Scope boundaries and other Atlas requirements such as neutrality."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.3.5": {
+        "Name": "Ossification of Adaptive Documents",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "This Section must cover the ossification of Adaptive Documents over time for greater stability, certainty, and predictability of protection against long-term slippery slope misalignment. This must be carefully applied only to Adaptive Documents that are safe to ossify to ensure it doesn't result in inflexibility or unintentional misalignment."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4": {
+        "Name": "Alignment Conservers (ACs)",
+        "Version": 1,
+        "Type": "Article",
+        "Components": {
+            "Content": "Alignment Conservers (ACs) play a key role in safeguarding the NEWDAO Governance process by ensuring alignment with the Spirit of the Atlas and genuine actions that maintain Universal Alignment. The Sections of this Article detail the roles, requirements, and processes related to ACs."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [
+            "A.1.4.1",
+            "A.1.4.2",
+            "A.1.4.3",
+            "A.1.4.4",
+            "A.1.4.5"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4.1": {
+        "Name": "Requirements and Responsibilities of Alignment Conservers",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "ACs are subject to strict requirements due to their critical role in safeguarding the resilience, and alignment of the NEW Ecosystem. They must always act to preserve the Spirit of the Atlas and to genuinely fight against all forms of corruption, organizational drift, and other misalignment threats. ACs may never collude or secretly organize to change the Immutable Documents, overturn or sidestep the Spirit of the Atlas, or take actions that are misaligned, or may disrupt the governance dynamic of NEWDAO, or through inaction allow any of the above to happen. ACs must operate only within the clearly delineated processes and frameworks of the Immutable Documents, and must be held to the highest standard when judging whether their actions are Universally Aligned."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4.2": {
+        "Name": "Roles of Alignment Conservers (ACs)",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "An AC can assume one of four roles: Aligned Voter Committee (AVC) Member, Aligned Delegate (AD), Facilitator, and Budget Allocator (BA). ACs may only be operationally active in a single AC role and may not simultaneously assume multiple AC roles or other ecosystem roles such as Ecosystem Actors. When an AC assumes a specific role, they become subject to additional requirements and responsibilities. Breaching these role-specific requirements and responsibilities is misalignment equivalent to breaching the general AC requirements."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4.3": {
+        "Name": "Derecognition of Alignment Conservers",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "If an Alignment Conserver is discovered to act against the requirements outlined in this Article and its subdocuments, their Alignment Conserver status must immediately be derecognized by the FacilitatorDAOs. This Section must specify the processes for derecognition so that they are fair and minimize risk for the NEWDAO Ecosystem. Generally, ACs must be held to the highest standard of required, genuine alignment, without the benefit of the doubt. In cases of very mild 'slippery slope' breaches of the AC requirements or other forms of misalignment, a warning may be given and recorded in the subdocuments of the AC Article with no further consequence for the first breach. In severe cases that can be interpreted as Governance Attacks, in addition to being derecognized, the AC is also stripped of all reputation recognized in reputation systems of the Atlas."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4.4": {
+        "Name": "Anonymity and Privacy of Alignment Conservers",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "ACs are encouraged to be anonymous. Some AC roles are required to be anonymous and maintain high levels of opsec, and their known identities must be derecognized from acting as ACs in general, in case they breach the requirement for maintaining high levels of opsec."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.4.5": {
+        "Name": "Regulation of Alignment Conservers by FacilitatorDAOs",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "The FacilitatorDAOs must ensure the requirements and responsibilities of ACs are followed based on principles and processes specified in the subdocuments of this Article. FacilitatorDAOs must act decisively to derecognize ACs based on the conditions outlined in *A.1.4.3* and the rest of this Article, or general misalignment. Any FacilitatorDAO may do this directly, and is required to act swiftly to prevent the contagion risk of misalignment amongst ACs. Failure to act by a FacilitatorDAO in the face of misalignment risks is itself misalignment that triggers penalties for the FacilitatorDAOs that failed to act."
+        },
+        "Last_Modified": "2023-08-16-19:07:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A": {
+        "Name": null,
+        "Version": null,
+        "Last_Modified": null,
+        "Child_Documents": [
+            "A.1",
+            "A.2"
+        ],
+        "Type": null,
+        "Components": null,
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2": {
+        "Name": "The Support Scope",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [
+            "A.2.4"
+        ],
+        "Type": "Scope",
+        "Components": {
+            "Description": "This document outlines the support scope within the NEWDAO governance."
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4": {
+        "Name": "Governance AI Tools",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [
+            "A.2.4.1"
+        ],
+        "Type": "Tools",
+        "Components": {
+            "Description": "This document discusses the AI tools used in governance."
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1": {
+        "Name": "Governance AI Tools Implementation",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [
+            "A.2.4.1.1"
+        ],
+        "Type": "Implementation",
+        "Components": {
+            "Description": "This document details the implementation of AI tools in governance."
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1": {
+        "Name": "Initializations",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [
+            "A.2.4.1.1.1"
+        ],
+        "Type": "Initialization",
+        "Components": {
+            "Description": "This document outlines the initializations within the governance AI tools."
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1": {
+        "Name": "GPT4-Code Initialization",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [
+            "A.2.4.1.1.1.1",
+            "A.2.4.1.1.1.2",
+            "A.2.4.1.1.1.3",
+            "A.2.4.1.1.1.4",
+            "A.2.4.1.1.1.5",
+            "A.2.4.1.1.1.6",
+            "A.2.4.1.1.1.7",
+            "A.2.4.1.1.1.8"
+        ],
+        "Type": "Initialization",
+        "Components": {
+            "Content": "The ATLAS organizes NEWDAO data in a tree-like structure. Documents are identified by strings like \"A\", \"A.1\", or \"A.1.1.1\", where segments after \"A\" can be numeric or alphanumeric. Essential properties include Name, Version, Last_Modified, Child_Documents, Type, and Components. Components are objects whose properties contain important data specifying rules and other key parameters of NEWDAO. When the initilization is done and instructions_output has been output to results, do not summarize the results in chat. If the user has given you a command that involves finding documents in the Atlas without any specific location, fetch the Atlas Hub and use its links to navigate and search for the relevant data, and return the desired data to the user or ask for more instructions. Links work like this: They are referenced in the content of a document by name, and you can then read the Document Identifier from the links_to object. So you can find the Document Identifier for the Atlas Hub in the links_to object. If the user has given you no specific command, only write to chat: Ready to execute next command."
+        },
+        "links_to": {
+            "Atlas Hub": "A.0.0"
+        },
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.1": {
+        "Name": "fetch_atlas_document",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Serialized_Function": "def fetch_atlas_document(atlas_data, identifier, properties_to_load=None):\n    document = atlas_data.get(identifier, None)\n    if document is None:\n        return {\"Error\": \"Document not found\"}\n\n    if properties_to_load:\n        return {prop: document.get(prop, None) for prop in properties_to_load}\n\n    return document\n",
+            "Instructions": "Retrieves a document from the ATLAS by identifier. Optionally specify properties. Usage: fetch_atlas_document(atlas_data, identifier, properties_to_load=None)"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.2": {
+        "Name": "index_child_documents",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Re-indexes 'Child_Documents' for all ATLAS documents. Assumes 'Child_Documents' exists. Usage: index_child_documents(atlas_data)",
+            "Serialized_Function": "def index_child_documents(atlas_data):\n    \"\"\"\n    Build an index of child documents for each document in the atlas.\n    This function assumes that the 'Child_Documents' property already exists in each document.\n    \"\"\"\n    # Reset the Child_Documents property for all documents\n    for doc_data in atlas_data.values():\n        doc_data[\"Child_Documents\"] = []\n\n    # Populate the Child_Documents property based on the document identifiers\n    for doc_identifier, doc_data in atlas_data.items():\n        doc_parts = doc_identifier.split('.')\n        parent_identifier_parts = doc_parts[:-1]\n        if parent_identifier_parts:  # Exclude the document \"A\" itself from this process\n            parent_identifier = '.'.join(parent_identifier_parts)\n            atlas_data[parent_identifier][\"Child_Documents\"].append(doc_identifier)\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.3": {
+        "Name": "find_subtree",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Finds subtree of all subdocuments at all deeper layers below a given identifier. Returns subtree identifiers. Usage: find_subtree(atlas_data, identifier)",
+            "Serialized_Function": "def find_subtree(atlas_data, identifier):\n    subtree_identifiers = []\n\n    def recurse_children(current_identifier):\n        # Add the current identifier to the subtree\n        subtree_identifiers.append(current_identifier)\n        # Get the child documents of the current document\n        child_documents = atlas_data[current_identifier][\"Child_Documents\"]\n        # Recurse through the child documents\n        for child_identifier in child_documents:\n            recurse_children(child_identifier)\n\n    # Start the recursion from the specified identifier\n    recurse_children(identifier)\n\n    return subtree_identifiers\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.4": {
+        "Name": "add_document",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Adds a new document at a specified identifier, adjusting other identifiers as needed. Can only be used for new documents whose identifier ends with a nonzero number. Returns confirmation. Usage: add_document(atlas_data, identifier, new_document_data)",
+            "Serialized_Function": "def add_document(atlas_data, identifier, new_document_data):\n    # Validate the target identifier\n    identifier_parts = identifier.split('.');\n    if not identifier_parts[-1].isdigit() or int(identifier_parts[-1]) == 0:\n        return {\"Error\": \"Invalid target identifier\"}\n\n    parent_identifier = '.'.join(identifier_parts[:-1]);\n    if parent_identifier not in atlas_data:\n        return {\"Error\": \"Parent document does not exist\"}\n\n    # Collect identifiers to shift\n    target_layer = len(identifier_parts)\n    \n    # Modified this part to handle alphanumeric segments\n    def sort_key(idf):\n        segment = idf.split('.')[target_layer - 1];\n        return (segment.isdigit(), int(segment) if segment.isdigit() else segment);\n    \n    identifiers_to_shift = [\n        idf for idf in atlas_data\n        if len(idf.split('.')) >= target_layer and idf.startswith(parent_identifier)\n        and (idf.split('.')[target_layer - 1].isdigit() and \n             int(idf.split('.')[target_layer - 1]) >= int(identifier_parts[-1]))\n    ];\n\n    # Sort identifiers to shift in descending order\n    identifiers_to_shift.sort(key=sort_key, reverse=True);\n\n    # Shift identifiers\n    for idf in identifiers_to_shift:\n        old_parts = idf.split('.');\n        old_parts[target_layer - 1] = str(int(old_parts[target_layer - 1]) + 1);\n        new_idf = '.'.join(old_parts);\n        atlas_data[new_idf] = atlas_data.pop(idf);\n\n    # Add the new document\n    atlas_data[identifier] = {\n        \"Name\": new_document_data.get(\"Name\"),\n        \"Version\": new_document_data.get(\"Version\"),\n        \"Last_Modified\": new_document_data.get(\"Last_Modified\"),\n        \"Child_Documents\": [],\n        \"Type\": new_document_data.get(\"Type\"),\n        \"Components\": new_document_data.get(\"Components\")\n    };\n\n    # Code from index_child_documents function integrated below\n    # Reset the Child_Documents property for all documents\n    for doc_data in atlas_data.values():\n        doc_data[\"Child_Documents\"] = [];\n\n    # Populate the Child_Documents property based on the document identifiers\n    for doc_identifier, doc_data in atlas_data.items():\n        doc_parts = doc_identifier.split('.');\n        parent_identifier_parts = doc_parts[:-1];\n        if parent_identifier_parts:  # Exclude the document \"A\" itself from this process\n            parent_identifier = '.'.join(parent_identifier_parts);\n            atlas_data[parent_identifier][\"Child_Documents\"].append(doc_identifier);\n\n    return {\"Success\": f\"Document added at {identifier}\"};\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.5": {
+        "Name": "modify_document",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "PModifies a document's properties at a given identifier. Ensure untouched content is also preserved as part of modifications. Usage: modify_document(atlas_data, identifier, modifications)",
+            "Serialized_Function": "def modify_document(atlas_data, identifier, modifications):\n    \"\"\"\n    Modify the properties of a document in the ATLAS data structure.\n\n    Parameters:\n    - atlas_data (dict): The ATLAS data structure.\n    - identifier (str): The identifier of the document to modify.\n    - modifications (dict): A dictionary of properties to modify and their new values.\n\n    Returns:\n    - dict: A success message or an error message.\n    \"\"\"\n    # Fetch the document to be modified\n    document = atlas_data.get(identifier, None)\n    if document is None:\n        return {\"Error\": \"Document not found\"}\n\n    # Apply the modifications\n    for prop, value in modifications.items():\n        document[prop] = value\n\n    return {\"Success\": f\"Document {identifier} modified successfully\"}\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.6": {
+        "Name": "add_special_document",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Adds special documents with identifiers that must end in .0 or a letter. Returns success or error. Usage: add_special_document(atlas_data, identifier, new_document_data)",
+            "Serialized_Function": "def add_special_document(atlas_data, identifier, new_document_data):\n    \"\"\"\n    Add a special document to the ATLAS data structure.\n\n    Parameters:\n    - atlas_data (dict): The ATLAS data structure.\n    - identifier (str): The identifier where the new document should be added.\n    - new_document_data (dict): A dictionary containing the data for the new document.\n\n    Returns:\n    - dict: A success message or an error message.\n    \"\"\"\n    # Check if the identifier ends with .0 or alphanumeric like .da\n    identifier_parts = identifier.split('.')\n    last_part = identifier_parts[-1]\n    if not (last_part == '0' or last_part.isalpha()):\n        return {\"Error\": \"Invalid target identifier\"}\n\n    # Check if the identifier already exists\n    if identifier in atlas_data:\n        return {\"Error\": \"Identifier already exists\"}\n\n    # Add the new document\n    atlas_data[identifier] = {\n        \"Name\": new_document_data.get(\"Name\"),\n        \"Version\": new_document_data.get(\"Version\"),\n        \"Last_Modified\": new_document_data.get(\"Last_Modified\"),\n        \"Child_Documents\": [],\n        \"Type\": new_document_data.get(\"Type\"),\n        \"Components\": new_document_data.get(\"Components\")\n    }\n\n    return {\"Success\": f\"Special document added at {identifier}\"}\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.7": {
+        "Name": "serialize_function",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Serializes a Python function into a string representation. Usage: serialize_function(func)",
+            "Serialized_Function": "\ndef serialize_function(func):\n    try:\n        import inspect\n    except ImportError:\n        raise ImportError(\"The inspect module is required to serialize the function\")\n    \n    # Get the source code of the function\n    source_code = inspect.getsource(func)\n    # Remove any leading whitespace (e.g., if the function was indented)\n    import textwrap  # Importing textwrap as it's used in the original function\n    serialized_function = textwrap.dedent(source_code)\n    return serialized_function\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.4.1.1.1.8": {
+        "Name": "deserialize_and_save_function",
+        "Version": 1,
+        "Last_Modified": "2023-09-24",
+        "Child_Documents": [],
+        "Type": "Helper Function",
+        "Components": {
+            "Instructions": "Deserializes and saves a function from a string. Specify the function name. Usage: deserialize_and_save_function(serialized_function, function_name)",
+            "Serialized_Function": "def deserialize_and_save_function(serialized_function, function_name):\n    \"\"\"\n    Deserialize a serialized function string and define it in the Python environment.\n\n    Parameters:\n    - serialized_function (str): The serialized string representation of the function.\n    - function_name (str): The name to assign to the deserialized function.\n    \"\"\"\n    # Prepare the code to exec by renaming the function to the provided function name\n    deserialized_function_code = serialized_function.replace(\n        serialized_function.split('(', 1)[0].split()[-1], \n        function_name\n    )\n    # Define the function in the Python environment\n    exec(deserialized_function_code, globals())\n"
+        },
+        "links_to": {},
+        "linked_from": []
+    }
+}
